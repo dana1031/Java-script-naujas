@@ -1,0 +1,28 @@
+body {
+    background: black;
+}
+#pirmas {
+    background-color: white;
+    color: blueviolet;
+}
+h1 {
+    background-color:white;
+    color: black;
+}
+h2 {
+    background-color: blueviolet;
+    color: black;
+}
+h3 {
+    background: white;
+    color: red;
+}
+p {
+    background-color: rgb(211, 237, 234);
+    color: rgb(152, 145, 218);
+}
+
+a {background: white;
+    color: red;
+
+}

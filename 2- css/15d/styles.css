@@ -1,0 +1,10 @@
+body {
+    background: orange;
+}
+#pirmas h1 {
+    display: inline;
+
+}
+#antras h2  {
+    display: inline; 
+}   

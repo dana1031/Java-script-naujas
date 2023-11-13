@@ -1,0 +1,51 @@
+body{
+    background: rgb(0, 124, 128);
+}
+div{
+    
+        background: white;
+        margin:50px auto;
+    
+}
+
+#pirmas {
+    background: red;
+    border: 2px solid black;
+    margin: 5em auto; 
+    max-width: 80%; 
+    
+/* margin: 50px auto; */
+}
+#antras {
+    background: rgb(181, 179, 49);
+    border: 2px solid black;
+    margin: 5em auto; 
+    max-width: 80%; 
+}
+
+#trecias {
+    background: rgb(0, 234, 255);
+    border: 2px solid black;      
+    margin: 5em auto;
+    max-width: 80%; 
+}
+#ketvirtas {
+    background: rgba(255, 0, 0, 0.1);
+    border: 2px solid black;
+    margin: 5em auto; 
+    max-width: 80%; 
+}
+
+ #penktas {
+        background: rgb(207, 199, 199);
+        border: 2px solid black;
+        margin: 5em auto; 
+        max-width: 80%;  
+ }
+
+p {
+    background: rgb(207, 199, 199);
+    border: 2px solid black;
+    margin: 5em auto; 
+    max-width: 80%;  
+}

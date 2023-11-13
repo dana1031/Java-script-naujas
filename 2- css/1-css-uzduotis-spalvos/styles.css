@@ -1,0 +1,107 @@
+
+/* galimi naudoti šriftai:
+font-family: 'Open Sans', sans-serif;
+weight: 400
+font-family: 'Roboto', sans-serif;
+weight: 900 */
+
+/* 2-as žingsis: šriftų uždėjimas */
+
+/* h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 26px;
+}
+
+p, a, li, input {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+p {
+    font-size: 14px;
+}
+
+a {
+    text-decoration: none;
+}
+/*  
+
+/* elementas {
+    font-family: pirmas prioritetas, antras prioritetas, ..., kažkas į temą;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} */
+ 
+body {
+    background: #c5eaff;
+}
+div {
+    background-color: white;
+}
+h1 {
+    background-color:black;
+    color: white;
+}
+h2 {
+    background-color: blue;
+    color:white;
+}
+h3 {
+    background: white;
+    color: dark;
+}
+p {
+    background-color: white;
+    color: black;
+}
+
+a {background: white;
+    color: red;
+
+}
+
+/*
+#pirmas {
+    background-color: white;
+    color: black;
+}
+.fonas-raudonas {
+    background-color: red;
+}
+
+.fonas-melynas {
+    background-color: royalblue;
+}
+
+#pirmas {
+    background: rgba(255, 255, 255, 0.5);
+}
+
+#antras {
+    background-color: beige;
+}
+
+#antras h2 {
+    background-color: cadetblue;
+    color: white;
+}
+
+#antras p {
+    color: cadetblue;
+}
+
+#trecias {
+    background-color: cornflowerblue;
+}
+
+*/

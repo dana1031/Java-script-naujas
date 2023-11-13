@@ -1,0 +1,61 @@
+body {
+    background-color:#f2e9d8;
+    font-family: 'Open Sans',sans-serif;
+}
+h1, h2, h3 {
+    color: rgb(0,0,0,0.2);
+}
+table {
+    width: 500px;
+    height: 200px;
+    font-size: 1.8em;
+    text-align: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+td {
+    background-color: rgba(255 ,255 ,255 ,0.6);
+}
+table, td {
+    border:2px solid red;
+    border-collapse;
+
+}
+#pirma-lentele td {
+    vertical-align: top;
+}
+li {
+    text-transform: lowercase;
+
+}
+.langeliai{
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+}
+#pirmas-paragrafas{
+    font-style: italic;
+    font-family: Verdena,Geneva,sans sirif;
+    font-size: 1.5em;
+    text-align: left;
+    color: grey;
+
+    
+}
+a { font-weight: 300;
+    text-decoration: none;
+    color: #ed0a3f;
+       
+}
+a:hover{
+    color:#2d383a;
+}
+ul li {
+    list-style-type: square;
+}
+ol li {
+    list-style-type: square;
+}
+.saraso-elementai {
+    list-style-type: none;
+    border-bottom: 2px solid silver;
+}
